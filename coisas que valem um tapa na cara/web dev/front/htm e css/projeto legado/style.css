@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(to bottom, #1F4529, #59632c);
+  margin: 0;
+}
+
+.ponto {
+
+  border-color: aliceblue;
+  height: 100px;
+  width: 100px;
+  display: block;
+  position: relative;
+  left: 50%;
+  top: 50%;
+
+
+}
+.cerebro {
+  position: relative;
+  left: 30%;
+  top: 20%;
+}
+.mulhe {
+  padding: 5rem 5rem;
+  width: 33rem;
+  height: 28rem;
+  position: relative;
+  left: 34%;
+  top:0.5rem ;
+}
+
+hr{
+  position: relative;
+  bottom: 50%;
+  border-style: double;
+  background: linear-gradient(to left, #0c2212, #BACD92);
+  height: 15px;
+  width: 900px;
+  border-radius: 16px;
+  border-color: none;
+
+}
+
+
+h1 {
+  font-family: "Jersey 15", serif;
+  font-weight: 400;
+  font-style: normal;
+  position: absolute;
+  left: 25%;
+  font-size: 2.5rem;
+  color: #11999e;;  
+  font-weight: normal;
+  line-height: 0,5;
+}
