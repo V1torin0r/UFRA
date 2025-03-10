@@ -1,0 +1,51 @@
+https://danieldonda.com/threat-intelligence/ - thred inteligence
+
+*************************************************************************
+
+Dependências Principais do AIL Framework:
+Redis:
+
+O Redis é um banco de dados em memória usado pelo AIL para gerenciar filas de tarefas e armazenar dados temporários.
+
+Ele é essencial para o funcionamento do sistema, especialmente para o processamento em tempo real.
+
+Elasticsearch:
+
+O Elasticsearch é usado para indexar e pesquisar os dados coletados pelo AIL.
+
+Ele permite buscas rápidas e eficientes em grandes volumes de dados.
+
+Python:
+
+O AIL Framework é escrito em Python, então você precisa ter o Python instalado (geralmente versão 3.6 ou superior).
+
+Além disso, várias bibliotecas Python são necessárias, e elas são instaladas automaticamente durante a configuração do AIL.
+
+ZMQ (ZeroMQ):
+
+O ZeroMQ é usado para comunicação entre os diferentes módulos do AIL.
+
+Ele facilita a troca de mensagens e dados entre os componentes do sistema.
+
+MySQL/MariaDB:
+
+Um banco de dados SQL é usado para armazenar metadados e informações estruturadas.
+
+O AIL suporta tanto MySQL quanto MariaDB.
+
+Nginx ou Apache:
+
+Um servidor web é necessário para hospedar a interface web do AIL.
+
+O Nginx é recomendado, mas o Apache também pode ser usado.
+
+Outras Dependências:
+
+O AIL também depende de ferramentas como Git (para clonar o repositório) e Docker (opcional, para facilitar a implantação em contêineres).
+
+*************************************************************************
+
+
+
+
+https://www.youtube.com/watch?v=IZdAcgEE5fE
